@@ -1,0 +1,16 @@
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# SQLite local database
+*.db
+*.sqlite3
+
+# Environment variables
+.env
